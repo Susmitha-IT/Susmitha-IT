@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Recent B.Sc IT graduate passionate about software development. Experienced in building and maintaining web applications through various projects. Currently enhancing backend development skills with Django and Laravel. Eager to contribute to innovative projects and apply my knowledge in a professional environment.
+
+My projects include web development using PHP, Bootstrap, Django, and Laravel. Discover my hands-on experience in building dynamic and responsive web applications.
+
