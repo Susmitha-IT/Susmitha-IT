@@ -1,12 +1,22 @@
 
 # Hello, I'm Susmitha 👋
 
-## About Me
-I’m a software developer with a passion for creating interactive and user-friendly websites. I specialize in PHP, Laravel, and front-end technologies.
+I’m a software developer with a passion for websites. I specialize in PHP, Laravel, and front-end technologies.
+
+## 🌟 Projects
+My projects include web development using PHP, Bootstrap, Django, and Laravel.
+
+### Academic Project
+-  [Workforce Management Website for YellowBag Foundation](https://www.linkedin.com/in/susmitha-b-it/)
+
+### Micro Laravel Projects
+- [Times of India RSS Feed Display](https://github.com/Susmitha-IT/Laravel-RSS-Feed-Display)
+- [Todo Application](https://github.com/Susmitha-IT/Todo-App-APIs-System-using-Laravel)
+- [Interactive Data Visualization Dashboard](https://github.com/Susmitha-IT/Interactive-Data-Visualization-Dashboard)
 
 ## 🔧 Technologies & Tools
 - PHP | Laravel | MySQL
-- Django | Symfony
+- Django
 - HTML | CSS | JavaScript | Bootstrap
 - AJAX | jQuery | Chart.js | D3.js
 - REST APIs
@@ -32,5 +42,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌟 Projects
-My projects include web development using PHP, Bootstrap, Django, and Laravel. Discover my hands-on experience in building dynamic and responsive web applications
