@@ -21,9 +21,6 @@ My projects include web development using PHP, Bootstrap, Django, and Laravel.
 - AJAX | jQuery | Chart.js | D3.js
 - REST APIs
 
-## 🏆 Achievements
-- Best Candidate in B.Sc. IT at Lady Doak College
-
 ## 📫 How to Reach Me
 - Email: susmithabalaji03@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/susmitha-b-it/)
