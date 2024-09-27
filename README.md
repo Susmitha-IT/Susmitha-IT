@@ -1,10 +1,7 @@
 
 # Hello, I'm Susmitha 👋
 
-I’m a software developer with a passion for websites. I specialize in PHP, Laravel, and front-end technologies.
-
-## 🌟 Projects
-My projects include web development using PHP, Bootstrap, Django, and Laravel.
+I’m a software developer and I specialize in PHP, Laravel, Bootstrap, Django and front-end technologies.
 
 ### Academic Project
 -  [Workforce Management Website for YellowBag Foundation](https://www.linkedin.com/in/susmitha-b-it/)
