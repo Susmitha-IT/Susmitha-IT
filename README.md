@@ -6,6 +6,9 @@ I’m a software developer and I specialize in PHP, Laravel, Bootstrap, Django a
 ### Academic Project
 -  [Workforce Management Website for YellowBag Foundation](https://www.linkedin.com/in/susmitha-b-it/)
 
+### Other Projects
+- [Library Management System](https://github.com/Susmitha-IT/LibraryManagementSystem)
+
 ### Micro Laravel Projects
 - [Times of India RSS Feed Display](https://github.com/Susmitha-IT/Laravel-RSS-Feed-Display)
 - [Todo Application](https://github.com/Susmitha-IT/Todo-App-APIs-System-using-Laravel)
