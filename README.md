@@ -1,12 +1,17 @@
 
 # Hello, I'm Susmitha 👋
 
-I’m a software developer and I specialize in PHP, Laravel, Bootstrap, Django and front-end technologies.
+I’m a Full Stack Developer with 1 year of experience in PHP, CodeIgniter, SQL, and front-end technologies (HTML, CSS, JavaScript, jQuery, AJAX, DataTables.js).  
+I specialize in query optimization, building REST APIs, and developing interactive web applications using Laravel, Bootstrap, and Django.
 
 ### Academic Project
--  [Workforce Management Website for YellowBag Foundation](https://www.linkedin.com/in/susmitha-b-it/)
+
+A core PHP web application developed to enhance operational efficiency for the YellowBag Foundation by reducing manual processes and time consumption.
+-  [Workforce Management Website for YellowBag Foundation](https://github.com/Susmitha-IT/Workforce-Management-Website-for-YellowBag-Foundation)
 
 ### Other Projects
+
+A beginner core PHP project independently developed to manage books, users, and borrowing operations with 20+ features and an admin dashboard.
 - [Library Management System](https://github.com/Susmitha-IT/LibraryManagementSystem)
 
 ### Micro Laravel Projects
